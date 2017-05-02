@@ -18,11 +18,11 @@ $ npm run dev
 
 ### What's Included
 
-- `npm run dev`: Browserify + `vueify` with proper config for source map & hot-reload.
+- `npm run dev`: App with proper config for source map & hot-reload.
 
 - `npm run build`: Production build with HTML/CSS/JS minification.
 
-For more information see the [docs for vueify](https://github.com/vuejs/vueify). Also checkout [breaking changes in vueify 9.0.0](https://github.com/vuejs/vueify/releases/tag/v9.0.0).
+- `npm run offline`: Build for offline and output release.zip of offline
 
 ### Fork It And Make Your Own
 
