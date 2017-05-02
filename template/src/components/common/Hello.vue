@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>{{ msg }}</h1>
+    <h1>{{ msgs }}</h1>
   </div>
 </template>
 
@@ -9,7 +9,7 @@ export default {
   name: 'hello',
   data () {
     return {
-      msg: 'Welcome to Your Offline App.'
+      msgs: 'Welcome to Your Offline App.'
     }
   }
 }
