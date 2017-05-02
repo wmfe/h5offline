@@ -1,7 +1,7 @@
 {
   "name": "offline",
   "version": "1.0.0",
-  "description": "A Vue.js project",
+  "description": "A Vue.js + offline project",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
