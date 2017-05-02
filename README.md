@@ -28,7 +28,7 @@ $ npm run dev
 
 ### Attention
 
-! You maybe need to change your pluginId,which default is bdwm.plugin.offlinetest.
+! You maybe need to change your pluginId,which default is `bdwm.plugin.offlinetest`.
 
 ### Fork It And Make Your Own
 
