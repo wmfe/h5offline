@@ -1,8 +1,10 @@
-# browserify-simple
+# offline
 
 > A simple Vue 2.0 H5 + offline setup for quick prototyping.
 
-> This template is Vue 2.0 compatible.
+> This template is JavaScript Standard Style.
+
+> This template is Vue 2.0+ compatible.
 
 ### Usage
 
@@ -23,6 +25,10 @@ $ npm run dev
 - `npm run build`: Production build with HTML/CSS/JS minification.
 
 - `npm run offline`: Build for offline and output release.zip of offline
+
+### Attention
+
+! You maybe need to change your pluginId,which default is bdwm.plugin.offlinetest.
 
 ### Fork It And Make Your Own
 

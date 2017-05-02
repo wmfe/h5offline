@@ -9,7 +9,7 @@ export default {
   name: 'hello',
   data () {
     return {
-      msg: 'Welcome to Your Offline App'
+      msg: 'Welcome to Your Offline App.'
     }
   }
 }
